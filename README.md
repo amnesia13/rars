@@ -10,7 +10,7 @@ an effective development environment for people getting started with RISC-V.
   - RISC-V IMFDN Base (riscv32 and riscv64)
   - Several system calls that match behaviour from MARS or SPIKE.
   - Support for debugging using breakpoints and/or `ebreak`
-  - Side by side comparison from psuedo-instruction to machine code with
+  - Side by side comparison from pseudo-instruction to machine code with
     intermediate steps
   - Multifile assembly using either files open or a directory
 
